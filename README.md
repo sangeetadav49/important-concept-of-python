@@ -1,4 +1,4 @@
-# important-concept-of-python
+# important-concepts-of-python
 For beginners as well as programmers
 a.	Gess data type for a.
 >>> a=1,2,3
